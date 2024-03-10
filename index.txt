@@ -2,14 +2,14 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Dave Chen
+Dave Chen
 Web developer
 
 Show Contacts
 
 Email
-richard@example.com
+abfa762466@gmail.com
 
 Phone
 +1 (213) 352-2795
